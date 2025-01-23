@@ -12,9 +12,13 @@
 For any inquiries, suggestions, or feedback, reach out via:
 
 LinkedIn: www.linkedin.com/in/mohammed-saeed-b8a5ba19b
+
 Email: mohamedsaied4556@gmail.com
+
 Phone: 01147534345
+
 WhatsApp: 01147534345
+
 Live Demo: https://mohammed-saeed111.github.io/pizza-website_HTML_CSS_JS/★
 
 
